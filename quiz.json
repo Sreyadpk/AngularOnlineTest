@@ -1,0 +1,43 @@
+{
+    "quiz" : [
+        {
+            "id" : 1,
+            "question": "What is polymorphism?",
+            "option1" : "Polymorphism is a technique to define different objects of same type",
+            "option2" : "Polymorphism is the ability of an object to take on many forms",
+            "option3" : "Polymorphism is a technique to define different methods of same type",
+            "option4" : "None of the above",
+            "answer" : "Polymorphism is the ability of an object to take on many forms"
+        },
+        {
+            "id" : 2,
+            "question": "Which method must be implemented by all threads?",
+            "option1" : "start()",
+            "option2" : "stop()",
+            "option3" : "wait()",
+            "option4" : "run()",
+            "answer" : "run()"
+
+        },
+        {
+            "id" : 3,
+            "question": "What kind of variables a class can consist of?",
+            "option1" : "class variables,instance variables",
+            "option2" : "class variables,instance variables,local variables",
+            "option3" : "class variables",
+            "option4" : "class variables,local variables",
+            "answer" : "class variables,instance variables,local variables"
+
+        },
+        {
+            "id" : 4,
+            "question": "What is JRE?",
+            "option1" : "JRE is a Java based GUI application",
+            "option2" : "JRE is an application development framework",
+            "option3" : "JRE is an implementation of the Java Virtual Machine which executes Java programs",
+            "option4" : "None of the above",
+            "answer" : "JRE is an implementation of the Java Virtual Machine which executes Java programs"
+
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+.card{
+    text-align: left;
+}
+.back{
+    text-align: right;
+}
+.container{
+    background-color:lightblue;
+    height: 200px;
+    width: 50%;
+}
